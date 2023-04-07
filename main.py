@@ -22,3 +22,7 @@ def draw_n_squares(n):
         result += "\n"
 
     return result
+
+# On teste le programme :
+
+print(draw_n_squares(1))
