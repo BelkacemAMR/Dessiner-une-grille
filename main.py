@@ -28,3 +28,5 @@ def draw_n_squares(n):
 print(draw_n_squares(1))
 
 print(draw_n_squares(3))
+
+print(draw_n_squares(5))
