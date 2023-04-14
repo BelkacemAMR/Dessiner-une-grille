@@ -1,4 +1,4 @@
-# Dessiner-une-grille
+# Dessiner une grille
 
 Le programme "draw_n_squares" prend un entier n en entrée et dessine n carrés concentriques à l'aide de caractères "+", "-", et "|". 
 
